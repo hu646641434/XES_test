@@ -9,5 +9,8 @@
 #import "UIColor+newColor.h"
 
 @implementation UIColor (newColor)
-
++(UIColor *)newColor
+{
+    return [UIColor greenColor];
+}
 @end

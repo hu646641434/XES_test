@@ -1,1 +1,1 @@
-pod repo push xes_bclib_ios_privatepods __XES_test__.podspec --verbose --allow-warnings
+pod repo push XES_test __xesDemo__.podspec --verbose --allow-warnings
